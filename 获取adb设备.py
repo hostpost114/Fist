@@ -8,5 +8,5 @@ for lie in m.readlines():
         l=lie.split('device')[0]
         pp.append(l)
         print(l)
-        print("##################")
-        print(pp[0])
+print("##################")
+print(pp[0])
